@@ -216,4 +216,4 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
-Data/steam_reviews_full.csv
+Data/Raw/steam_reviews_full.csv
